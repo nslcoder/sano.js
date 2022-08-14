@@ -1,0 +1,14 @@
+{
+  "name": "email-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "nslcoder",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
